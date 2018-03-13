@@ -34,7 +34,7 @@ apis:
   tags: SMS
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/sms/master/_listings/aws-simple-notification-service/action-getsmsattributes-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/sms/master/_listings/aws-simple-notification-service/action-setsmsattributes-get.md
 x-common:
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/Amazon-SN
