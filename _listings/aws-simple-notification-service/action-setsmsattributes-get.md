@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=SetSMSAttributes&k=1:
+  /?Action=SetSMSAttributes:
     get:
       summary: ' Set SMS Attributes '
       description: Use this request to set the default settings for sending SMS messages
