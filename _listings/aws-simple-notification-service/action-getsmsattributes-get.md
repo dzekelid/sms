@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetSMSAttributes&k=1:
+  /?Action=GetSMSAttributes:
     get:
       summary: ' Get S M S Attributes '
       description: Returns the settings for sending SMS messages from your account
