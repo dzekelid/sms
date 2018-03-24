@@ -25,8 +25,8 @@ tags:
 - Messaging
 - Getting Started
 - API LIfeycle
-created: "2018-03-22"
-modified: "2018-03-22"
+created: "2018-03-24"
+modified: "2018-03-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -41,7 +41,7 @@ apis:
   tags: SMS
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accounts-accountsid-sms-messages-smsmessagesid-format-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accounts-accountsid-sms-messages-format-get.md
 x-common:
 - type: x-net-library
   url: https://www.twilio.com/docs/csharp/install
