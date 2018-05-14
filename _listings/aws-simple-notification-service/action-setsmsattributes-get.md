@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Simple Notification Service API
+  title: AWS Simple Notification Service API Set SMS Attributes
   version: 1.0.0
+  description: Use this request to set the default settings for sending SMS messages
+    and receiving daily SMS usage reports.
 schemes:
 - http
 produces:
