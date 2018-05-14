@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Simple Notification Service API
+  title: AWS Simple Notification Service API Get S M S Attributes
   version: 1.0.0
+  description: Returns the settings for sending SMS messages from your account.
 schemes:
 - http
 produces:
