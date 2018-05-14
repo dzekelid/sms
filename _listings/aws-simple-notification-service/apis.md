@@ -35,7 +35,32 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/aws-simple-notification-service/action-setsmsattributes-get.md
+- name: AWS Simple Notification Service API Get S M S Attributes
+  description: Returns the settings for sending SMS messages from your account.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png
+  humanURL: https://aws.amazon.com/sns/
+  baseURL: http:://{host}//
+  tags: SMS
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/aws-simple-notification-service/action-getsmsattributes-get.md
 x-common:
+- type: x-change-log
+  url: http://aws.amazon.com/releasenotes/Amazon-SN
+- type: x-console
+  url: https://console.aws.amazon.com/sns
+- type: x-documentation
+  url: http://docs.aws.amazon.com/sns/latest/api/
+- type: x-faq
+  url: https://aws.amazon.com/sns/faqs/
+- type: x-forum
+  url: https://forums.aws.amazon.com/forum.jspa?forumID=72
+- type: x-getting-started
+  url: https://aws.amazon.com/sns/getting-started/
+- type: x-pricing
+  url: https://aws.amazon.com/sns/pricing/
+- type: x-website
+  url: https://aws.amazon.com/sns/
 - type: x-change-log
   url: http://aws.amazon.com/releasenotes/Amazon-SN
 - type: x-console
