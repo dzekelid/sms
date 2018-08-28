@@ -1,63 +1,208 @@
 ---
 name: Twilio
-description: Twilio, the cloud communications company, providing a telephony infrastructure
-  web service in the cloud, allowing web developers to integrate phone calls, text
-  messages and IP voice communications into their web, mobile and traditional phone
-  applications.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
+x-slug: twilio
+description: Cloud communications platform for building SMS, Voice & Messaging applications
+  on an API built for global scale. Get started with a free trial.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
 x-kinRank: "10"
-x-alexaRank: ""
-tags:
-- Voice
-- Voice
-- Telco
-- Stack Network
-- Stack
-- SMS API
-- SMS
-- Service Level Agreement
-- Reliability
-- Plans
-- Partners
-- MMS API
-- MMS
-- Messaging
-- Messaging
-- Getting Started
-- API LIfeycle
-created: "2018-03-24"
-modified: "2018-03-24"
-url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/apis.yaml
+x-alexaRank: "9195"
+tags: SMS
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/apis.md
 specificationVersion: "0.14"
 apis:
-- name: Twilio
-  description: Twilio, the cloud communications company, providing a telephony infrastructure
-    web service in the cloud, allowing web developers to integrate phone calls, text
-    messages and IP voice communications into their web, mobile and traditional phone
-    applications
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
-  humanURL: ""
-  baseURL: https://api.twilio.com//2010-04-01/
-  tags: SMS
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accounts-accountsid-sms-messages-smsmessagesid-format-get.md
-- name: Twilio GetSMS
-  description: GetSMS
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twilio-logo.png
+- name: Twilio - GetSMSList
+  x-api-slug: accountsaccountsidsmsmessages-format-get
+  description: GetSMSList
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
   humanURL: http://www.twilio.com
   baseURL: https://api.twilio.com//2010-04-01/
-  tags: SMS
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accounts-accountsid-sms-messages-smsmessagesid-format-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accounts-accountsid-sms-messages-smsmessagesid-format-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-get-openapi.md
+- name: Twilio - SendSMS
+  x-api-slug: accountsaccountsidsmsmessages-format-post
+  description: SendSMS
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-post-openapi.md
+- name: Twilio - GetSMS
+  x-api-slug: accountsaccountsidsmsmessagessmsmessagesid-format-get
+  description: GetSMS
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessagessmsmessagesid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessagessmsmessagesid-format-get-openapi.md
+- name: Twilio - Get SMS Short Code Media
+  x-api-slug: accountsaccountsidsmsshortcodes-get
+  description: Returns a list of ShortCode resource representations, each representing
+    anshort code within your account. The list includes paging information.n
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsshortcodes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsshortcodes-get-openapi.md
+- name: Twilio - Get SMS Short Code Media
+  x-api-slug: accountsaccountsidsmsshortcodesshortcodesid-get
+  description: Get a single message.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsshortcodesshortcodesid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsshortcodesshortcodesid-get-openapi.md
+- name: Twilio - Add SMS Short Code Media
+  x-api-slug: accountsaccountsidsmsshortcodesshortcodesid-post
+  description: Tries to update the shortcodes properties, and returns the updatednresource
+    representation if successful.n
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsshortcodesshortcodesid-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsshortcodesshortcodesid-post-openapi.md
+- name: Twilio - GetSMSList
+  x-api-slug: accountsaccountsidsmsmessages-format-get
+  description: GetSMSList
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-get-openapi.md
+- name: Twilio - SendSMS
+  x-api-slug: accountsaccountsidsmsmessages-format-post
+  description: SendSMS
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-post-openapi.md
+- name: Twilio - GetSMS
+  x-api-slug: accountsaccountsidsmsmessagessmsmessagesid-format-get
+  description: GetSMS
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessagessmsmessagesid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessagessmsmessagesid-format-get-openapi.md
+- name: Twilio - GetSMSList
+  x-api-slug: accountsaccountsidsmsmessages-format-get
+  description: GetSMSList
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-get-openapi.md
+- name: Twilio - SendSMS
+  x-api-slug: accountsaccountsidsmsmessages-format-post
+  description: SendSMS
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessages-format-post-openapi.md
+- name: Twilio - GetSMS
+  x-api-slug: accountsaccountsidsmsmessagessmsmessagesid-format-get
+  description: GetSMS
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg
+  humanURL: http://www.twilio.com
+  baseURL: https://api.twilio.com//2010-04-01/
+  tags: Voice, SMS, Voice, MMS API, MMS, API LIfeyclessss, Getting Started Example,
+    Service Level Agreement, Stack Network, Stack, Technology, SaaS, Telecommunications,
+    Enterprise, internet, SMS, Telecommunications, Messages, Messages, Relative Data,
+    Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessagessmsmessagesid-format-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/accountsaccountsidsmsmessagessmsmessagesid-format-get-openapi.md
 x-common:
-- type: x-net-library
+- type: x--net-library
   url: https://www.twilio.com/docs/csharp/install
 - type: x-acceptable-use-policy
   url: https://www.twilio.com/legal/aup
+- type: x-api-gallery
+  url: http://tvmaze.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://twilio.stack.network
 - type: x-application-gallery
   url: https://www.twilio.com/showcase
 - type: x-base-url
@@ -72,8 +217,20 @@ x-common:
   url: https://www.twilio.com/help/contact
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/twilio
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/twilio
 - type: x-documentation
   url: https://www.twilio.com/docs/api
+- type: x-email
+  url: help@twilio.com
+- type: x-email
+  url: privacy@twilio.com
+- type: x-email
+  url: legalnotices@twilio.com
+- type: x-email
+  url: trademark@twilio.com
+- type: x-email
+  url: kyleky@twilio.com
 - type: x-getting-started
   url: https://www.twilio.com/docs/quickstart
 - type: x-github
@@ -82,7 +239,7 @@ x-common:
   url: https://www.twilio.com/docs/howto
 - type: x-java-library
   url: https://www.twilio.com/docs/java/install
-- type: x-nodejs-library
+- type: x-node-js-library
   url: https://www.twilio.com/docs/node/install
 - type: x-paid-support
   url: https://www.twilio.com/premium-support#features
@@ -91,12 +248,6 @@ x-common:
 - type: x-php-library
   url: https://www.twilio.com/docs/php/install
 - type: x-pricing
-  url: https://www.twilio.com/pricing
-- type: x-pricing--show-2
-  url: https://www.twilio.com/pricing
-- type: x-pricing--show-3
-  url: https://www.twilio.com/pricing
-- type: x-pricing--show-4
   url: https://www.twilio.com/pricing
 - type: x-privacy
   url: https://www.twilio.com/legal/privacy
@@ -128,80 +279,10 @@ x-common:
   url: https://twitter.com/twilio
 - type: x-website
   url: http://www.twilio.com
-- type: x-net-library
-  url: https://www.twilio.com/docs/csharp/install
-- type: x-acceptable-use-policy
-  url: https://www.twilio.com/legal/aup
-- type: x-application-gallery
-  url: https://www.twilio.com/showcase
-- type: x-base-url
-  url: https://api.twilio.com
-- type: x-blog
-  url: http://www.twilio.com/blog
-- type: x-blog-rss
-  url: http://www.twilio.com/blog/feed
-- type: x-community-supported-libraries
-  url: https://www.twilio.com/docs/libraries
-- type: x-contact-form
-  url: https://www.twilio.com/help/contact
-- type: x-crunchbase
-  url: http://www.crunchbase.com/company/twilio
-- type: x-documentation
-  url: https://www.twilio.com/docs/api
-- type: x-getting-started
-  url: https://www.twilio.com/docs/quickstart
-- type: x-github
-  url: https://github.com/twilio
-- type: x-how-to-guides
-  url: https://www.twilio.com/docs/howto
-- type: x-java-library
-  url: https://www.twilio.com/docs/java/install
-- type: x-nodejs-library
-  url: https://www.twilio.com/docs/node/install
-- type: x-paid-support
-  url: https://www.twilio.com/premium-support#features
-- type: x-partners
-  url: https://www.twilio.com/partners
-- type: x-php-library
-  url: https://www.twilio.com/docs/php/install
-- type: x-pricing
-  url: https://www.twilio.com/pricing
-- type: x-pricing--show-2
-  url: https://www.twilio.com/pricing
-- type: x-pricing--show-3
-  url: https://www.twilio.com/pricing
-- type: x-pricing--show-4
-  url: https://www.twilio.com/pricing
-- type: x-privacy
-  url: https://www.twilio.com/legal/privacy
-- type: x-python-library
-  url: https://www.twilio.com/docs/python/install
-- type: x-ruby-library
-  url: https://www.twilio.com/docs/ruby/install
-- type: x-salesforce-pdk
-  url: https://www.twilio.com/docs/salesforce/install
-- type: x-security
-  url: https://www.twilio.com/docs/security
-- type: x-service-level-agreement
-  url: https://www.twilio.com/legal/service-level-agreement
-- type: x-stack-overflow
-  url: http://stackoverflow.com/questions/tagged/twilio
-- type: x-status
-  url: http://status.twilio.com/
-- type: x-status-rss
-  url: http://status.twilio.com/rss
-- type: x-terms-of-service
-  url: https://www.twilio.com/legal/tos
-- type: x-trademarks
-  url: https://www.twilio.com/legal/trademark
-- type: x-transparency-report
-  url: https://www.twilio.com/blog/2015/07/transparency-report-for-government-requests-for-customer-information.html
-- type: x-transparency-report
-  url: https://www.twilio.com/legal/transparency
-- type: x-twitter
-  url: https://twitter.com/twilio
 - type: x-website
-  url: http://www.twilio.com
+  url: http://twilio.com
+- type: x-website
+  url: http://stackoverflow.com
 include: []
 maintainers:
 - FN: Kin Lane

@@ -1,0 +1,1097 @@
+{
+	"name": "Streadata.io API Gallery - SMS",
+	"description": "This is a repository of sms APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/sms.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://sms.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Twilio",
+			"x-api-slug": "twilio",
+			"description": "Cloud communications platform for building SMS, Voice & Messaging applications on an API built for global scale. Get started with a free trial.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/143-twilio.jpg",
+			"humanURL": "http://www.twilio.com",
+			"baseURL": "https://api.twilio.com//2010-04-01/",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AT&T Dev Program",
+			"x-api-slug": "att-dev-program",
+			"description": "AT&T Official Site. Premium entertainment, the latest cell phones & tablets, unlimited data plans, and high-speed internet. Join the nations best network today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg",
+			"humanURL": "http://att.com",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/att-dev-program/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Clickatell",
+			"x-api-slug": "clickatell",
+			"description": "Clickatell is a leading company in Global Mobile Messaging. You can reach 1000+ global networks with 1 API using Clickatells Bulk SMS Gateway.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/169-clickatell.jpg",
+			"humanURL": "http://clickatell.com",
+			"baseURL": "http://api.clickatell.com/http/",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/clickatell/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Diffbot",
+			"x-api-slug": "diffbot",
+			"description": "Never write another web scraper. Diffbot automates web data extraction from any website using AI, computer vision, &amp; machine learning.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/181-diffbot.jpg",
+			"humanURL": "http://www.diffbot.com/our-apis/follow/",
+			"baseURL": "https:////",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/diffbot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Tropo",
+			"x-api-slug": "tropo",
+			"description": "Hosted Voice and SMS API",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/264-tropo.jpg",
+			"humanURL": "https://www.tropo.com/",
+			"baseURL": "https://api.tropo.com//v1/",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/tropo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "46elks",
+			"x-api-slug": "46elks",
+			"description": "Adding SMS and Voice to your application or service should be easy. Phone calls, SMS & MMS in one easy API. For developers, built by developers.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/289-46elks.jpg",
+			"humanURL": "http://46elks.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/46elks/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "agendize",
+			"x-api-slug": "agendize",
+			"description": "Agendize is the most complete customer engagement platform on the market, providing over 100,000 businesses with customizable ways to let their customers call, chat, book appointments and more.    As a leading provider of these solutions, Agendize has ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/322-agendize.jpg",
+			"humanURL": "http://www.agendize.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/agendize/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bronto Software",
+			"x-api-slug": "bronto-software",
+			"description": "Bronto Software provides the tools marketers need to automate, streamline, and maximize their efforts. Join the ecommerce marketers who rely on Bronto to deliver the best in email marketing today.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/382-bronto-software.jpg",
+			"humanURL": "http://community.bronto.com/api/v4",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/bronto-software/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Pingdom",
+			"x-api-slug": "pingdom",
+			"description": "Monitor your websites availability and performance for free with Pingdom and always be the first to know when your website is down. No installation required.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/456-pingdom.jpg",
+			"humanURL": "http://www.pingdom.com",
+			"baseURL": "https://api.pingdom.com//",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/pingdom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sendible",
+			"x-api-slug": "sendible",
+			"description": "Sendible is a social media management tool that helps agencies and companies boost their productivity on social media. Try it for free.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/472-sendible.jpg",
+			"humanURL": "http://sendible.com",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/sendible/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TextMarks SMS",
+			"x-api-slug": "textmarks-sms",
+			"description": "TextMarks SMS software for customer and employee communications. Provider of mass text message alerts, auto text reply and lead capture solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/497-textmarks-sms.jpg",
+			"humanURL": "http://lite.textmarks.com/dev/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/textmarks-sms/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Call-Em-All",
+			"x-api-slug": "callemall",
+			"description": "Call-Em-Alls voice broadcasting and mass texting service is the best way to send important alerts, notifications, and reminders to all of your contacts instantly.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/555-call-em-all.jpg",
+			"humanURL": "https://www.call-em-all.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/callemall/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fortumo",
+			"x-api-slug": "fortumo",
+			"description": "Fortumo is a digital enablement platform for app stores and digital service providers for user acquisition, monetization and retention. The company connects service providers with more than 350 mobile operators across Asia, Europe, Latin America, the M...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/595-fortumo.jpg",
+			"humanURL": "http://fortumo.com/api",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/fortumo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Group Texting",
+			"x-api-slug": "group-texting",
+			"description": "Send Mass Text Messages from your computer using our long codes for fast, affordable, hassle-free bulk SMS marketing campaigns. Setup is free. Get going in 60 seconds.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/603-group-texting.jpg",
+			"humanURL": "http://grouptexting.com",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/group-texting/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Nexmo",
+			"x-api-slug": "nexmo",
+			"description": "Nexmo, a Vonage Company, is a global cloud communications platform leader providing innovative APIs & SDKs for voice, text, messaging & phone verification.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/626-nexmo.jpg",
+			"humanURL": "http://nexmo.com/",
+			"baseURL": "http://rest.nexmo.com//",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/nexmo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Betwext",
+			"x-api-slug": "betwext",
+			"description": "Better SMS, MMS and Text Marketing",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/706-betwext.jpg",
+			"humanURL": "http://betwext.com",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/betwext/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Infobip",
+			"x-api-slug": "infobip",
+			"description": "A2P messaging platform for enterprises, resellers mobile operators with global network coverage - all accessible through REST API. Boost your business!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/818-infobip.jpg",
+			"humanURL": "http://www.infobip.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/infobip/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GSMA OneAPI Location",
+			"x-api-slug": "gsma-oneapi-location",
+			"description": "Follow us on @GSMA",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1014-gsma-oneapi-location.jpg",
+			"humanURL": "http://gsma.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/gsma-oneapi-location/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "InMobi",
+			"x-api-slug": "inmobi",
+			"description": "InMobi enables consumers to discover new products and services by providing contextual and personalized ad experiences on mobile devices.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1019-inmobi.jpg",
+			"humanURL": "http://developer.inmobi.com/wiki/index.php?title=API",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/inmobi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "mobileStorm",
+			"x-api-slug": "mobilestorm",
+			"description": "",
+			"image": "",
+			"humanURL": "http://www.mobilestorm.com",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/mobilestorm/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IDrive",
+			"x-api-slug": "idrive",
+			"description": "Built with developers in mind, IDrive Encrypted Versioned file System is a powerful, easy to use service that provides secure, encrypted and versioned cloud storage. Unlike other generic storage systems, IDrive EVS has storage encryption, versioning and block level incremental transfers built in both-ways for uploads and downloads. This gives you the freedom to develop innovative applications to customize your Backup, Storage, Sync, Sharing, Disaster recovery and more that are highly efficient, scalable and require minimal coding. It provides powerful APIs for uploading, retrieving, managing data and storage, at any time, from anywhere on the Internet.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1055-idrive-online-backup.jpg",
+			"humanURL": "https://www.idrive.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/idrive/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FireText",
+			"x-api-slug": "firetext",
+			"description": "FireText bring the power of SMS Marketing to ALL businesses in the UK. Whether you are a independent restaurant looking to fill empty seats, an events company looking to shout about your event, or even a law firm looking to contact quiet customers&#8230;FireText can really help and deliver some outstanding results. Send messages to 1 or 100,000+ Receive messages on your dedicated number Collect new customer contacts in seconds Auto-reply with Vouchers and Offers Forward messages to mobile and email Plus a lot more&#8230;. FireText is a UK based company using UK Tier 1 connections to send your SMS. The highest quality with the highest level of service. The FireText team will happily help you at all stages of your SMS campaign. Start increasing your sales today at a very low cost!SpecialtiesSMS Marketing, Text Marketing, Email to SMS",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1058_logo.jpg",
+			"humanURL": "http://www.firetext.co.uk/sms-marketing-features/developer-sms-api/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/firetext/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "FixYa",
+			"x-api-slug": "fixya",
+			"description": "Product troubleshooting support, DIY advice, and help from experts & local pros. Ask questions and get answers to fix, repair, and service any product.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1059-fixya.jpg",
+			"humanURL": "http://www.fixya.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/fixya/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Invoicefu",
+			"x-api-slug": "invoicefu",
+			"description": "No more hassling with invoice numbers, copying invoices manually, or losing any data. Youll be able to access your invoices from anywhere, at anytime, with all the guarantees of our industry strength secure servers. if you are a web or mobile apps dev...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1079-invoicefu.jpg",
+			"humanURL": "https://invoicefu.com",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/invoicefu/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "National Renewable Energy Laboratory",
+			"x-api-slug": "national-renewable-energy-laboratory",
+			"description": "The National Renewable Energy Laboratory (NREL) is the nations primary laboratory for renewable energy and energy efficiency research and development (R&D).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1097-national-renewable-energy-laboratory.jpg",
+			"humanURL": "http://nrel.gov",
+			"baseURL": "https://developer.nrel.gov//api/transportation-incentives-laws",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/national-renewable-energy-laboratory/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "nimbuzz",
+			"x-api-slug": "nimbuzz",
+			"description": "Get the latest, headlines, breaking, regional news fast. General News, World News, Technology News, Business News, Sports News, Entertainment News, Health News, Fashion News, Politics News, Education News, New and Knowledgeable Article.-English--United...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1099-nimbuzz.jpg",
+			"humanURL": "http://developers.nimbuzz.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/nimbuzz/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OpenCorporates",
+			"x-api-slug": "opencorporates",
+			"description": "Free and Open Company Data on 135 million companies and corporations in over 125 jurisdictions, including US, UK, Switzerland, Panama...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1108-opencorporates.jpg",
+			"humanURL": "http://opencorporates.com",
+			"baseURL": "://api.opencorporates.com/v0.4/",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/opencorporates/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plivo",
+			"x-api-slug": "plivo",
+			"description": "Voice & SMS API Platform: Plivo enables businesses and developers to tap into powerful Voice and SMS capabilities without carrier lock-in.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1113-plivo.jpg",
+			"humanURL": "http:///account",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/plivo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ReferralCandy",
+			"x-api-slug": "referralcandy",
+			"description": "Our app is designed to help make online store owners more money. It works by making it super easy for sellers to conduct their own customer referral programs.     We take the hassle out of sending out emails, tracking forwards and rewarding referrals b...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1129-referralcandy.jpg",
+			"humanURL": "http://www.referralcandy.com/api/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/referralcandy/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SendHub",
+			"x-api-slug": "sendhub",
+			"description": "SendHub provides a simple, fast and reliable communications platform for businesses and organizations. Our BYOD business phone system is easy to use and manage with no contracts or no hardware to install. Business owners or IT admins can easily add, delete or reallocate phone lines, monitor usage, and download analytics with a single click. Call or text using any device, whether it is a PC, cellphone or tablet.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1147_logo.png",
+			"humanURL": "https://www.sendhub.com",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/sendhub/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TelAPI",
+			"x-api-slug": "telapi",
+			"description": "Zang offers business communications tools & voice app development platforms that bring innovation and ease to unified communications & collaboration solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1176-telapi.jpg",
+			"humanURL": "http://www.telapi.com",
+			"baseURL": "http://api.telapi.com/v2/",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/telapi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "txtNation",
+			"x-api-slug": "txtnation",
+			"description": "txtNation Mobile Billing and SMS Messaging",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1188-txtnation.jpg",
+			"humanURL": "http://wiki.txtnation.com/wiki/HLR_Number_Lookup_API",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/txtnation/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avetio",
+			"x-api-slug": "avetio",
+			"description": "Avetio SMS text message service makes easy to instantly reach and engage your customers and community by text service. We easily deliver Text Message information, alerts &amp; offers to all your contacts in seconds.Get your business moving with the power of SMS. Bulk SMS is quickly becoming the channel of choice when you want people to hear what you have to say. Unlike email, SMS is very personal and always gets eyeballs. It is short so does not have a time commitment barrier to read. SMS is fast, reliable and very interactive. Burst SMS gives you a reliable and easy way to execute campaigns at prices with super cheap SMS rates. We have the best possible international routing to compete head on with local SMS connections at a fraction of the cost. Our web SMS interface is the best on the market, its so easy to use it takes just minutes to get up and running.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1240-avetio.jpg",
+			"humanURL": "https://www.avetio.com",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/avetio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TextBelt",
+			"x-api-slug": "textbelt",
+			"description": "",
+			"image": "",
+			"humanURL": "http://textbelt.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/textbelt/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Texteo",
+			"x-api-slug": "texteo",
+			"description": "Digitaleo propose aux points de vente et aux enseignes des solutions dacquisition, de communication, et de fidlisation client pour gnrer du trafic en magasin.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1363-texteo.jpg",
+			"humanURL": "http://www.digitaleo.com/sms-platform/api",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/texteo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Clockwork",
+			"x-api-slug": "clockwork",
+			"description": "Clockwork is an Easy Text Message API. An SMS API for Developers. Build powerful apps and include SMS. Signup is free, Try it now.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1373-clockwork.jpg",
+			"humanURL": "http://clockworksms.com",
+			"baseURL": "http://api.clockworksms.com/http/",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/clockwork/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Modica Global Connect",
+			"x-api-slug": "modica-global-connect",
+			"description": "Modica Group provides its partners and customers with Intelligent Messaging solutions, with offices and customers primarily in New Zealand, Australia, USA and Dominican Republic. We provide businesses with high availability, mission critical messaging ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1448-modica-global-connect.jpg",
+			"humanURL": "http://www.modicagroup.com/mobile/mobile-applications/global-connect/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/modica-global-connect/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Expert Texting",
+			"x-api-slug": "expert-texting",
+			"description": "ExpertTexting.com is an international SMS gateway for mass texting or bulk SMS service covering 99% of the worlds network with lowest rates per sms in industry for bulk SMS marketing or advertising purposes! Signup now and get 125 SMS Free.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1704-expert-texting.jpg",
+			"humanURL": "http://www.experttexting.com/features/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/expert-texting/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Talkray",
+			"x-api-slug": "talkray",
+			"description": "From the makers of TiKL  the Touch To Talk app enjoyed by 25 million users  comes Talkray, a whole new mobile communication experience!  Available for the iPhone/iPod/iPad.    * Call one or a group of friends at once, in HD quality.  * One-button sen...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1763-talkray.jpg",
+			"humanURL": "http://developer.talkray.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/talkray/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "U.S. Department of State Office of the Historian",
+			"x-api-slug": "u-s--department-of-state-office-of-the-historian",
+			"description": "If youre looking for the official source of information about the U.S. Department of State, please visit http://www.state.gov.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1789-u-s--department-of-state-office-of-the-historian.jpg",
+			"humanURL": "https://history.state.gov/developer/catalog",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/u-s--department-of-state-office-of-the-historian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Datafield",
+			"x-api-slug": "datafield",
+			"description": "Apiary provides the leading API-First platform designed specifically to help companies accelerate and control the design, development, and documentation of APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1807-datafield.jpg",
+			"humanURL": "http://docs.datafield.apiary.io/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/datafield/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Messente",
+			"x-api-slug": "messente",
+			"description": "Simple, powerful, and transparent. Thats how we do business. Start messaging your clients and verifying users now. No commitments, contracts, or sign-up fees.     http://messente.com/contact    Were a forward-thinking team. Our purpose is to connect ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1817-messente.jpg",
+			"humanURL": "https://messente.com",
+			"baseURL": "http://api2.messente.com//",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/messente/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TextMagic",
+			"x-api-slug": "textmagic",
+			"description": "TextMagic is a bulk SMS marketing service provider founded in 2001. Our tools are: Email to SMS, online SMS, Email to SMS Gateway & SMS API. FREE TRIAL!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2504-textmagic.jpg",
+			"humanURL": "https://www.textmagic.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/textmagic/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SMSGlobal",
+			"x-api-slug": "smsglobal",
+			"description": "",
+			"image": "http://pbs.twimg.com/profile_images/540289727702638592/4GpaRII9_normal.jpeg",
+			"humanURL": "http://www.smsglobal.com",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/smsglobal/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CallFire",
+			"x-api-slug": "callfire",
+			"description": "Grow your business with virtual phone numbers, IVR, voice broadcasting, mass text messaging services and power dialing. Try CallFire for FREE!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/11768-callfire.jpg",
+			"humanURL": "http://www.callfire.com",
+			"baseURL": "https://www.callfire.com//v2",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/callfire/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MySMS",
+			"x-api-slug": "mysms",
+			"description": "mysms is a cross-platform texting app which allows you to send and receive text messages from a computer or tablet just like on your smartphone. Messages are synced in realtime and available via any of your devices.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mysms-logo.jpg",
+			"humanURL": "http://www.mysms.com/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/mysms/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Taxamo",
+			"x-api-slug": "taxamo",
+			"description": "We make global digital VAT/GST compliance possible. #DigitalTax #DigiTax #TaxTrends",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18644-taxamo.jpg",
+			"humanURL": "https://www.taxamo.com/",
+			"baseURL": "https://api.taxamo.com//",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/taxamo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TigerText",
+			"x-api-slug": "tigertext",
+			"description": "TigerText is a multi-platform, secure, real-time messaging application for the enterprise that allows text messages to be deleted from both the senders and the receivers phones after expiration, which could be a set period of time or after reading. The messages cannot be saved, copied or forwarded by recipients. TigerText does this by storing the message on a company server, not the receiving and sending device, and deleting when the expiration conditions are met.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tigertext-logo.png",
+			"humanURL": "http://www.tigertext.com/",
+			"baseURL": "https://developer.tigertext.me//v2/",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/tigertext/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "VictorOps",
+			"x-api-slug": "victorops",
+			"description": "VictorOps incident managament software gives DevOps observability, collaboration, & real-time alerting, to build, deploy, & operate software. Learn more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20023-victorops.jpg",
+			"humanURL": "http://victorops.com",
+			"baseURL": "https://api.victorops.com//",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/victorops/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Cognito",
+			"x-api-slug": "aws-cognito",
+			"description": "Amazon Cognito lets you easily add user sign-up and sign-in to your mobile and web apps. With Amazon Cognito, you also have the options to authenticate users through social identity providers such as Facebook, Twitter, or Amazon, with SAML identity solutions, or by using your own identity system. In addition, Amazon Cognito enables you to save data locally on users devices, allowing your applications to work even when the devices are offline. You can then synchronize data across users devices so that their app experience remains consistent regardless of the device they use. With Amazon Cognito, you can focus on creating great app experiences instead of worrying about building, securing, and scaling a solution to handle user management, authentication, and sync across devices.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-cognito.png",
+			"humanURL": "https://aws.amazon.com/cognito/",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/aws-cognito/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Simple Notification Service",
+			"x-api-slug": "aws-simple-notification-service",
+			"description": "Amazon Simple Notification Service (Amazon SNS) is a fast, flexible, fully managed push notification service that lets you send individual messages or to fan-out messages to large numbers of recipients. Amazon SNS makes it simple and cost effective to send push notifications to mobile device users, email recipients or even send messages to other distributed services.With Amazon SNS, you can send notifications to Apple, Google, Fire OS, and Windows devices, as well as to Android devices in China with Baidu Cloud Push. You can use SNS to send SMS messages to mobile device users worldwide.Beyond these endpoints, Amazon SNS can also deliver messages toAmazon Simple Queue Service(SQS),AWS Lambda functions, or to any HTTP endpoint.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Mobile-Services_AmazonSNS.png",
+			"humanURL": "https://aws.amazon.com/sns/",
+			"baseURL": ":///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/aws-simple-notification-service/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "iSendPro Telecom",
+			"x-api-slug": "isendpro-telecom",
+			"description": "Solution denvoi de SMS pro direct Oprateur. Oprateur Franais, Qualit Garantie Sans Engagement et Sans Dlai.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28430-api-i-send-pro.jpg",
+			"humanURL": "http://isendpro.com",
+			"baseURL": "https://apirest.isendpro.com//cgi-bin",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/isendpro-telecom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Transport for London Unified",
+			"x-api-slug": "transport-for-london-unified",
+			"description": "We are the integrated transport authority responsible for delivering Mayor of London Sadiq Khans strategy and commitments on transport. We run the day-to-day operation of the Capitals public transport network and manage Londons main roads.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/transport-for-london-unified-api.png",
+			"humanURL": "https://tfl.gov.uk/",
+			"baseURL": "https://api.tfl.gov.uk//",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/transport-for-london-unified/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RingCentral",
+			"x-api-slug": "ringcentral",
+			"description": "RingCentral, Inc. (NYSE: RNG) is a global provider of cloud enterprise unified communications and collaboration solutions. More flexible and cost-effective than legacy on-premise systems, RingCentral empowers today&rsquo;s mobile and distributed workforces to be connected anywhere and on any device through voice, video, team messaging, collaboration, SMS, conferencing, online meetings, contact center, and fax. RingCentral provides an open platform that integrates with today&rsquo;s leading business apps while giving customers the flexibility to customize their own workflows.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28867-developer-ringcentral-com.jpg",
+			"humanURL": "http://www.ringcentral.com",
+			"baseURL": "https://platform.ringcentral.com//",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/ringcentral/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GIG & CROWD",
+			"x-api-slug": "gig--crowd",
+			"description": "A unique system of the order and booking of artists: negotiations, coordination of conditions, convenient reminders of fee payment terms and rider preparation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gigandcrowd.png",
+			"humanURL": "https://gigandcrowd.com",
+			"baseURL": "https://gigandcrowd.com//",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/gig--crowd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "SMS",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "SMS",
+	"include": [
+		{
+			"name": "Twilio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/twilio/apis.yaml"
+		},
+		{
+			"name": "AT&T Dev Program",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/att-dev-program/apis.yaml"
+		},
+		{
+			"name": "Clickatell",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/clickatell/apis.yaml"
+		},
+		{
+			"name": "Diffbot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/diffbot/apis.yaml"
+		},
+		{
+			"name": "Tropo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/tropo/apis.yaml"
+		},
+		{
+			"name": "46elks",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/46elks/apis.yaml"
+		},
+		{
+			"name": "agendize",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/agendize/apis.yaml"
+		},
+		{
+			"name": "Bronto Software",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/bronto-software/apis.yaml"
+		},
+		{
+			"name": "Pingdom",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/pingdom/apis.yaml"
+		},
+		{
+			"name": "Sendible",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/sendible/apis.yaml"
+		},
+		{
+			"name": "TextMarks SMS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/textmarks-sms/apis.yaml"
+		},
+		{
+			"name": "Call-Em-All",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/callemall/apis.yaml"
+		},
+		{
+			"name": "Fortumo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/fortumo/apis.yaml"
+		},
+		{
+			"name": "Group Texting",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/group-texting/apis.yaml"
+		},
+		{
+			"name": "Nexmo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/nexmo/apis.yaml"
+		},
+		{
+			"name": "Betwext",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/betwext/apis.yaml"
+		},
+		{
+			"name": "Infobip",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/infobip/apis.yaml"
+		},
+		{
+			"name": "GSMA OneAPI Location",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/gsma-oneapi-location/apis.yaml"
+		},
+		{
+			"name": "InMobi",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/inmobi/apis.yaml"
+		},
+		{
+			"name": "mobileStorm",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/mobilestorm/apis.yaml"
+		},
+		{
+			"name": "IDrive",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/idrive/apis.yaml"
+		},
+		{
+			"name": "FireText",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/firetext/apis.yaml"
+		},
+		{
+			"name": "FixYa",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/fixya/apis.yaml"
+		},
+		{
+			"name": "Invoicefu",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/invoicefu/apis.yaml"
+		},
+		{
+			"name": "National Renewable Energy Laboratory",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/national-renewable-energy-laboratory/apis.yaml"
+		},
+		{
+			"name": "nimbuzz",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/nimbuzz/apis.yaml"
+		},
+		{
+			"name": "OpenCorporates",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/opencorporates/apis.yaml"
+		},
+		{
+			"name": "Plivo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/plivo/apis.yaml"
+		},
+		{
+			"name": "ReferralCandy",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/referralcandy/apis.yaml"
+		},
+		{
+			"name": "SendHub",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/sendhub/apis.yaml"
+		},
+		{
+			"name": "TelAPI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/telapi/apis.yaml"
+		},
+		{
+			"name": "txtNation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/txtnation/apis.yaml"
+		},
+		{
+			"name": "Avetio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/avetio/apis.yaml"
+		},
+		{
+			"name": "TextBelt",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/textbelt/apis.yaml"
+		},
+		{
+			"name": "Texteo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/texteo/apis.yaml"
+		},
+		{
+			"name": "Clockwork",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/clockwork/apis.yaml"
+		},
+		{
+			"name": "Modica Global Connect",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/modica-global-connect/apis.yaml"
+		},
+		{
+			"name": "Expert Texting",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/expert-texting/apis.yaml"
+		},
+		{
+			"name": "Talkray",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/talkray/apis.yaml"
+		},
+		{
+			"name": "U.S. Department of State Office of the Historian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/u-s--department-of-state-office-of-the-historian/apis.yaml"
+		},
+		{
+			"name": "Datafield",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/datafield/apis.yaml"
+		},
+		{
+			"name": "Messente",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/messente/apis.yaml"
+		},
+		{
+			"name": "TextMagic",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/textmagic/apis.yaml"
+		},
+		{
+			"name": "SMSGlobal",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/smsglobal/apis.yaml"
+		},
+		{
+			"name": "CallFire",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/callfire/apis.yaml"
+		},
+		{
+			"name": "MySMS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/mysms/apis.yaml"
+		},
+		{
+			"name": "Taxamo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/taxamo/apis.yaml"
+		},
+		{
+			"name": "TigerText",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/tigertext/apis.yaml"
+		},
+		{
+			"name": "VictorOps",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/victorops/apis.yaml"
+		},
+		{
+			"name": "AWS Cognito",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/aws-cognito/apis.yaml"
+		},
+		{
+			"name": "AWS Simple Notification Service",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/aws-simple-notification-service/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "iSendPro Telecom",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/isendpro-telecom/apis.yaml"
+		},
+		{
+			"name": "Transport for London Unified",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/transport-for-london-unified/apis.yaml"
+		},
+		{
+			"name": "RingCentral",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/ringcentral/apis.yaml"
+		},
+		{
+			"name": "GIG & CROWD",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/gig--crowd/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/sms/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}
